@@ -1,0 +1,3 @@
+[submodule "my_project_docker"]
+	path = my_project_docker
+	url = https://github.com/fadhelali1996/DockerSymfonyBlog.git
